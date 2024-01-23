@@ -18,7 +18,7 @@
     ```
 Copy the target subscription id.
 
-2. Copy code from the ExpressDeployment.ps1, and configure these parameters:
+2. Copy code from the [ExpressDeployment.ps1](https://github.com/freistli/ExpressDeployment/blob/main/ExpressDeployment.ps1), and configure these parameters:
 
     ```
     $baseName = "NewResourceName"
